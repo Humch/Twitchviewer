@@ -1,0 +1,17 @@
+html {
+    background-color: #402A06;
+}
+
+div.upper {
+    font-family: 'Supermercado One', cursive;
+    background-color: #87580C;
+    color: navajowhite;
+}
+
+div.filter {
+    background-color: #FFA719;
+}
+
+div.content {
+    background-color: #8B8C8C;
+}
